@@ -1,5 +1,6 @@
-// import {Navbar,Footer,Services,Transactions,Welcome,Loader} from './components'
 import {Navbar,Footer,Services,Transactions,Welcome} from './components'
+
+
 
 const App = ()=> {
   return (
