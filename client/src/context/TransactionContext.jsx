@@ -54,7 +54,6 @@ setTransactions(structuredTransactions);
 
 }
 
-
     const checkIfWalletIsConnect = async () => {
       try {
         if (!ethereum) return alert("Please install MetaMask.");

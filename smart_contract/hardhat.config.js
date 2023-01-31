@@ -10,7 +10,7 @@ module.exports = {
   networks:{
     goerli:{
       url:'https://eth-goerli.g.alchemy.com/v2/oFvx-r4J8mrRNlYPm7DvqRpBgoDgob5I',
-      accounts:['e3fdbac51a607f34603c8ea8f94103f399b9d0be0bfe0cebfc3569112271b11d']
+      accounts:['af5fef696139fe5518835d4f14b4a339653a78d335e6b4aa0066cb59f7403610']
     }
   }
 };
